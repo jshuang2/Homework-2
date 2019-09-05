@@ -80,9 +80,8 @@ footer {
     background: #666666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
-    position: fixed;
-    bottom: 1%;
-    width: 98.2%;
+    margin-top: 20%;
+
 }
 
 .card-body {
@@ -103,4 +102,14 @@ h3 {
     font-size: 22px;
     font-weight: 300px;
     font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.card-deck {
+    margin-top: 40px;
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.row {
+    margin-bottom: 20px;
 }
