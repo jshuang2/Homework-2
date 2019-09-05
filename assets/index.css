@@ -112,3 +112,10 @@ h3 {
 .row {
     margin-bottom: 20px;
 }
+
+.btn-primary {
+    background: #4aaaa5;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
